@@ -1,1 +1,1 @@
-content of newfile 2 
+Made a change to newfile2.txt
